@@ -15,6 +15,9 @@ It securely stores your API keys and provides dynamic options like requesting bi
 
 ## 📸 Screenshots
 
+<img width="491" height="719" alt="stripe1" src="https://github.com/user-attachments/assets/1de5ce15-ad13-49b5-8d11-5f259ee16f2c" />
+<img width="488" height="713" alt="stripe2" src="https://github.com/user-attachments/assets/7ed60c55-cba6-490e-9a27-1f2d5e66fc1c" />
+
 
 ## 🛠️ Installation & Setup
 
